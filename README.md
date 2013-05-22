@@ -1,3 +1,3 @@
 Thank Github!
 -------------
-* A blogger by Issues.
+* A blogger in Issues.
