@@ -11,6 +11,7 @@
 * 巴比特 http://www.8btc.com/
 * 比特币白皮书中文翻译 http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system
 * 以太坊白皮书中文翻译 https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6
+* Hyperledger fabric 中文协议规范 https://github.com/hyperledger/fabric/blob/master/docs/protocol-spec_zh.md
 * Ubuntu 14.04 中基于 Docker 部署 Hyperledger https://github.com/imac-cloud/blockchain-tutorial/blob/master/hyperledger/hyperledger-docker.md
 
 ## 工具链接
