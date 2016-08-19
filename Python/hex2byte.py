@@ -2,10 +2,11 @@
 # -*- coding: utf-8 -*-
 
 '''
-hex.txt是十六进制的数字，目的是要转换为二进制表达，以ASCII形式存放到bin.txt中
+hex.txt 中是十六进制的数字, 转换为二进制表示
+即: 两字节变八字节存放到 bin.txt 中
 举例：
-    转换前：1A2F
-    转换后：0001101000101111
+    转换前：1A...       (两字节)
+    转换后：00011010... (八字节)
 '''
 
 __author__ = 'Gymgle'
@@ -30,7 +31,7 @@ dt = {
     'F':'1111'
     }
 
-hfile = open('hex.txt') # Hex file
+hfile = open('hex.txt') 		# Hex file
 bfile = open('bin.txt', 'w+')   # Bin file
 i = 0
 

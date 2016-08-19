@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # code: utf-8
 
 # 合并 Random_x.bin 等 1000 个文件为一个
