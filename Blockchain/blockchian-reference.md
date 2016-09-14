@@ -20,6 +20,12 @@
 
 * 比特币地址、私钥等 Demo 演示页面 https://gobittest.appspot.com/
 * IBM 超能云（SuperVessel）区块链服务的公测地址，创建自己的区块链演示 http://crl.ptopenlab.com:8800/bc
+* IBM Bluemix Blockchain 托管服务，免费部署 4 节点 fabric 区块链网络，功能比上者更强，提供 APIs 调用 https://console.ng.bluemix.net/catalog/services/blockchain
+
+## 区块链开发
+
+* 基于 Hyperledger 的 fabric，如何编写基本链码，如何在 IBM Bluemix 上部署和交互 https://github.com/IBM-Blockchain/learn-chaincode
+* Hyperledger fabric 源码分析 https://github.com/yeasy/hyperledger_code_fabric
 
 ## 相关网站
 
