@@ -5,6 +5,7 @@
 * 《区块链技术指南》 https://www.gitbook.com/book/yeasy/blockchain_guide/details
 * 《精通比特币》 http://zhibimo.com/books/wang-miao/mastering-bitcoin
 * 《精通比特币》的英文原版 *Mastering Bitcoin* 主页 https://www.bitcoinbook.info/ Github 地址 https://github.com/bitcoinbook/bitcoinbook
+* 巴比特汇总的电子书 http://book.8btc.com/
 
 ## 白皮书与协议规范
 
