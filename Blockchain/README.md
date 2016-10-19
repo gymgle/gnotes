@@ -26,6 +26,7 @@
 ## 区块链开发
 
 * 基于 Hyperledger 的 fabric，如何编写基本链码，如何在 IBM Bluemix 上部署和交互 https://github.com/IBM-Blockchain/learn-chaincode
+* IBM Blockchain 的 learn-chaincode 中文翻译 https://github.com/gymgle/learn-chaincode/blob/master/README_zh-cn.md
 * Hyperledger fabric 源码分析 https://github.com/yeasy/hyperledger_code_fabric
 
 ## 相关网站
