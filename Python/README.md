@@ -3,6 +3,7 @@
 * 学习资料
   * Too much to list...
 * 小脚本
+  * [custom_filename.py](custom_filename.py) 自定义文件名，主要用于把 Android 手机 DCIM 相册中照片/视频的文件名改为类似 Dropbox 自动备份的名字，例如 `IMG_20161215_220530.jpg` 修改后为 `2016-12-15 22.05.30.jpg`
   * [awkrow.py](awkrow.py) 实现类似awk取某一列的功能
   * [tiebaSpider.py](tiebaSpider.py) 百度贴吧简单抓取脚本
   * 随机数检测中使用到的脚本
