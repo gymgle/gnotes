@@ -12,6 +12,7 @@
     * [comb.py](comb.py) 合并多个文件
     * [byte2bit.py](byte2bit.py) 把每用一字节表示的 0/1 字符转为用一位表示
     * [hex2bin.py](hex2bin.py) 把每两字节十六进制字符串转换为一字节表示
+    * [hex2bin_multi.py](hex2bin_multi.py) 转换多个文件，把文件中每两字节十六进制字符串转换为一字节表示
     * [hex2byte.py](hex2byte.py) 把每两字节十六进制的字符串转为八字节的 0/1 字符表示
     * [randomgen.py](randomgen.py) 生成 1G bits 随机数
   * More...
