@@ -7,15 +7,18 @@
 __author__ = 'Gymgle'
 __date__ = '$2016-8-16 20:00:00$'
 
+import os
+
 counts = 1000
 dst_file = open("bin", "wb+")
 
 for i in range(counts):
-    src_file = "Random_" + str(i) + ".bin"
-    with open(src_file, "rb") as f:
-        print(src_file)
-        dst_file.write(f.read())
-        f.close()
+    src_file = "rand_" + str(i) + ".bin"
+    if os.path.exists(src_file):
+        with open(src_file, "rb") as f:
+            print(src_file)
+            dst_file.write(f.read())
+            f.close()
 
 dst_file.close()
 print("Combination done.")
