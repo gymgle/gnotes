@@ -14,5 +14,6 @@
     * [hex2bin.py](hex2bin.py) 把每两字节十六进制字符串转换为一字节表示
     * [hex2bin_multi.py](hex2bin_multi.py) 转换多个文件，把文件中每两字节十六进制字符串转换为一字节表示
     * [hex2byte.py](hex2byte.py) 把每两字节十六进制的字符串转为八字节的 0/1 字符表示
+    * [bin2ascii_hex.py](bin2ascii_hex.py) 把二进制文件中的一字节转换为相同的两字节表示
     * [randomgen.py](randomgen.py) 生成 1G bits 随机数
   * More...
