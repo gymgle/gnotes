@@ -1,8 +1,9 @@
-## Go ÓïÑÔ×ÊÁÏ
+## Go è¯­è¨€èµ„æ–™
 
-* Ñ§Ï°×ÊÁÏ
-  * [GoÊ¾ÀıÑ§](http://www.kancloud.cn/itfanr/go-by-example) Go ÈëÃÅÑ§Ï°µÄÊ¾Àı´úÂë
-  * [Go Web ±à³Ì](https://github.com/astaxie/build-web-application-with-golang) ´Ó Go ÈëÃÅµ½±àĞ´ Web ¿ò¼Ü
-  * [beego ¿ò¼Ü](https://beego.me/docs/intro/) Ò»¸ö¿ìËÙ¿ª·¢ Go Ó¦ÓÃµÄ HTTP ¿ò¼Ü
-* Ğ¡³ÌĞò
-  * [rename.go](rename.go) ×Ô¶¨ÒåÎÄ¼şÃû£¬Ö÷ÒªÓÃÓÚ°Ñ Android ÊÖ»ú DCIM Ïà²áÖĞÕÕÆ¬/ÊÓÆµµÄÎÄ¼şÃû¸ÄÎªÀàËÆ Dropbox ×Ô¶¯±¸·İµÄÃû×Ö£¬ÀıÈç `IMG_20161215_220530.jpg` ĞŞ¸ÄºóÎª `2016-12-15 22.05.30.jpg`
+* å­¦ä¹ èµ„æ–™
+  * [Go ç¤ºä¾‹å­¦](http://www.kancloud.cn/itfanr/go-by-example) Go å…¥é—¨å­¦ä¹ çš„ç¤ºä¾‹ä»£ç 
+  * [Go è¯­è¨€æ ‡å‡†åº“](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) ä»¥ç¤ºä¾‹é©±åŠ¨çš„æ–¹å¼è®²è§£Golangçš„æ ‡å‡†åº“
+  * [Go Web ç¼–ç¨‹](https://github.com/astaxie/build-web-application-with-golang) ä» Go å…¥é—¨åˆ°ç¼–å†™ Web æ¡†æ¶
+  * [beego æ¡†æ¶](https://beego.me/docs/intro/) ä¸€ä¸ªå¿«é€Ÿå¼€å‘ Go åº”ç”¨çš„ HTTP æ¡†æ¶
+* å°ç¨‹åº
+  * [rename.go](rename.go) è‡ªå®šä¹‰æ–‡ä»¶åï¼Œä¸»è¦ç”¨äºæŠŠ Android æ‰‹æœº DCIM ç›¸å†Œä¸­ç…§ç‰‡/è§†é¢‘çš„æ–‡ä»¶åæ”¹ä¸ºç±»ä¼¼ Dropbox è‡ªåŠ¨å¤‡ä»½çš„åå­—ï¼Œä¾‹å¦‚ `IMG_20161215_220530.jpg` ä¿®æ”¹åä¸º `2016-12-15 22.05.30.jpg`
