@@ -1,9 +1,10 @@
 ## Go 语言资料
 
 * 学习资料
-  * [Go 示例学](http://www.kancloud.cn/itfanr/go-by-example) Go 入门学习的示例代码
-  * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) 以示例驱动的方式讲解Golang的标准库
-  * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) 从 Go 入门到编写 Web 框架
+  * Go 示例学 - Go 入门学习的示例代码 http://www.kancloud.cn/itfanr/go-by-example
+  * Go 语言标准库 -以示例驱动的方式讲解Golang的标准库 https://github.com/polaris1119/The-Golang-Standard-Library-by-Example
+  * Go Web 编程 - 从 Go 入门到编写 Web 框架 https://github.com/astaxie/build-web-application-with-golang
+  * 如何理解「Go函数传参只有值传递一种方式」 https://mp.weixin.qq.com/s/gkE1ifBhC-JBZwPllsePDw
 
 * HTTP 框架
   * Gin https://github.com/gin-gonic/gin
