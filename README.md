@@ -7,4 +7,5 @@ Thank Github!
   * [Go 资料](Go)
   * [区块链资料](Blockchain)
   * [微信公众平台 Demo](WeChat)
+  * [Postern 配置规则](Postern)
 * More...
