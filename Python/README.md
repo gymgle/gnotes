@@ -8,6 +8,7 @@
   * [rename_with_unix_time.py](rename_with_unix_time.py) 把 Android 微信中保存的图片和视频重命名，原文件名为保存时的 Unix 时间戳
   * [awkrow.py](awkrow.py) 实现类似awk取某一列的功能
   * [tiebaSpider.py](tiebaSpider.py) 百度贴吧简单抓取脚本
+  * [pic2webp.py](pic2webp.py) 图片批量转换 webp 的脚本
   * 随机数检测中使用到的脚本
     * [comb.py](comb.py) 合并多个文件
     * [byte2bit.py](byte2bit.py) 把每用一字节表示的 0/1 字符转为用一位表示
